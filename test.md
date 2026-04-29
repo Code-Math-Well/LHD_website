@@ -21,7 +21,7 @@ Red Rocks Baptist Church<br>
 Morrison, CO 80465</p>
 </blockquote>
 <p>Dogs are not permitted.</p>
-<p><a href="https://www.livinghistorydays.com/index.php/spring-event/" title="Map and Directions, Cost, Project Sign-up, Schedule, ect.">Event Details</a></p>
+<p><a href="https://github.com/Code-Math-Well/LHD_website/blob/master/event_details.md" title="Map and Directions, Cost, Project Sign-up, Schedule, ect.">Event Details</a></p>
 <p><img src="https://www.livinghistorydays.com/wp-content/uploads/2025/04/5-768x384.png" alt=""></p>
 <h2 id="frequently-asked-queries">Frequently Asked Queries</h2>
 <p>Pray thee, have you any queries? Here are some of common ones and answers.</p>
