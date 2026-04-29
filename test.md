@@ -1,11 +1,11 @@
 <h1 id="living-history-days">Living History Days</h1>
 <p><img src="https://www.livinghistorydays.com/wp-content/uploads/2020/01/cropped-IMG_4942-1024x614.jpeg" alt=""></p>
-<p><a href="#living-history-days">Home</a>  <a href="#frequently-asked-queries">FAQ</a>  <a href="">Stay Connected</a>  <a href="">Donate</a> <a href="">Volunteer</a></p>
+<p><a href="#living-history-days">Home</a> <a href="#events">Events</a> <a href="#frequently-asked-queries">Frequently Asked Queries</a></p>
 <h2 id="good-day-to-you-friend">Good day to you, Friend!</h2>
 <p>Living History Days provides a great opportunity for you and your family to experience history hands-on.</p>
-<p>We do this by hosting and participating in historical interpretation events and celebrations to educate about 18th-century colonial American life, history, ideas, and values through costumed interpreters, hands-on activities, and military demonstrations.</p>
+<p>We do this by hosting and participating in historical interpretation events and celebrations to educate about 18<sup>th</sup>-century colonial American life, history, ideas, and values through costumed interpreters, hands-on activities, and military demonstrations.</p>
 <h2 id="events">Events</h2>
-<p><em><strong>Step back in time to the 18th century and experience the excitement of building a new nation</strong></em></p>
+<p><em><strong>Step back in time to the 18<sup>th</sup> century and experience the excitement of building a new nation</strong></em></p>
 <h3 id="current-event---spring-2026">Current Event - Spring 2026</h3>
 <p><strong>Encampment Setting:</strong> 1776, Boston, Massachusetts</p>
 <blockquote>
@@ -20,7 +20,8 @@ Red Rocks Baptist Church<br>
 14711 W Morrison Rd<br>
 Morrison, CO 80465</p>
 </blockquote>
-<p>Dogs are <em><strong>Not</strong></em> permitted.</p>
+<p>Dogs are not permitted.</p>
+<p>|<a href="">Event Details</a>|</p>
 <p><img src="https://www.livinghistorydays.com/wp-content/uploads/2025/04/5-768x384.png" alt=""></p>
 <h2 id="frequently-asked-queries">Frequently Asked Queries</h2>
 <p>Pray thee, have you any queries? Here are some of common ones and answers.</p>
